@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jugalsuthar4
 - 👀 I’m interested in Full stack Development(MERN STACK)
 - 🌱 I’m currently learning JAVA FULL STACK
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me => Instagram => @jugalsuthar01
 
 <!---
